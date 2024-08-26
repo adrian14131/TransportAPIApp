@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="RouteStopElementView">
+        <attr name="exampleRSString" format="string" />
+        <attr name="exampleRSDimension" format="dimension" />
+        <attr name="exampleRSColor" format="color" />
+        <attr name="exampleRSDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TransportAPIApp</string>
+    <string name="api_waiting_button">Wygeneruj dane na serwerze API \n(z oczekiwaniem)</string>
+    <string name="api_background_button">Wygeneruj dane na serwerze API \n(w  tle)</string>
+    <string name="in_app_gen_waiting_button">Wygeneruj dane w aplikacji \n(z oczekiwaniem)</string>
+    <string name="in_app_gen_background_button">Wygeneruj dane w aplikacji \n(w tle)</string>
+    <string name="api_button">Wygeneruj dane na serwerze API</string>
+    <string name="in_app_button">Wygeneruj dane w aplikacji</string>
+    <string name="start_button">Start</string>
+    <string name="next">Dalej</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="load_data">Załaduj dane</string>
+    <string name="press_start">Naciśnij start aby rozpocząć</string>
+</resources>

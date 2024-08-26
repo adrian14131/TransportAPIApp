@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="StopGroupElementView">
+        <attr name="exampleSGString" format="string" />
+        <attr name="exampleSGDimension" format="dimension" />
+        <attr name="exampleSGColor" format="color" />
+        <attr name="exampleSGDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="LineElementView">
+        <attr name="exampleLString" format="string" />
+        <attr name="exampleLDimension" format="dimension" />
+        <attr name="exampleLColor" format="color" />
+        <attr name="exampleLDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

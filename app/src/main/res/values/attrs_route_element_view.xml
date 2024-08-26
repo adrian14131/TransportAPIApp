@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="RouteElementView">
+        <attr name="exampleRString" format="string" />
+        <attr name="exampleRDimension" format="dimension" />
+        <attr name="exampleRColor" format="color" />
+        <attr name="exampleRDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
